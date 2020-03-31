@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 覆瓿集
-#+DATE: 2020-03-31 11:36:36.152241
+#+DATE: 2020-03-31 11:36:36.271667
 #+PROPERTY: ID KR4e0018
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 8
 <pb:KR4e0018_WYG_008-1a>¶
 　　欽定四庫全書¶
@@ -184,7 +184,7 @@
 玉日向君門趨樓前梅花自開落樓頭明月還盈虚南¶
 牕孤燭照歸夢覺來枕席非吾廬且當致身佐唐虞䕫¶
 龍豈容混樵漁長干美酒熟可沽梅花如雪覆緣蕪神¶
-州月色天下殊何用區區懷故都花間卧月紅&KR0586;毺人¶
+州月色天下殊何用區區懷故都花間卧月紅氍毺人¶
 生花月何處無¶
 ¶
 <pb:KR4e0018_WYG_008-9b>¶
